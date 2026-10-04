@@ -19,7 +19,7 @@ I build AI systems that are measured, grounded, and actually deployed.
 | Project | What it is | Stack |
 |---|---|---|
 | **[SEC GraphRAG](https://github.com/Akshaj01/sec-graph-rag)** | Graph + vector RAG with routing, citation allowlists, cost-gated corpus growth, and a hybrid-vs-vector benchmark | Python · Neo4j · pgvector · FastAPI · Docker |
-| **FA Report Agent** *(Western Digital, private)* | MCP server that generates failure analysis reports from the FA database for an internal AI assistant | Python · MCP · AWS EKS |
+| **FA Report Agent** *(Western Digital, private)* | MCP server that generates failure analysis reports from the FA database for an internal AI assistant | Python · MCP · MySQL · AWS EKS |
 | **[Water Blast Drone](https://github.com/Akshaj01/Water-Blast-Drone)** | TODO: one line on what it does and what you built (CPE 450) | TODO |
 | **[CPE Capstone](https://github.com/Akshaj01/CPE-Capstone)** | TODO: one line on the problem and outcome | Python |
 | **[PlatformIO Projects](https://github.com/Akshaj01/PlatformIO-Projects)** | Embedded firmware projects — TODO: name the boards and peripherals | C++ · PlatformIO |
