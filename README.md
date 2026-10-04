@@ -2,7 +2,7 @@
 
 **Systems & Backend Engineering × Applied AI × Embedded**
 
-B.S. Computer Engineering @ Cal Poly SLO · Electrical Failure Analysis Engineer @ Western Digital
+B.S. Computer Engineering @ Cal Poly SLO · Software Engineer @ Western Digital
 I build AI systems that are measured, grounded, and actually deployed.
 
 ---
