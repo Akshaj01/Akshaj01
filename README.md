@@ -26,6 +26,6 @@ I build AI systems that are measured, grounded, and actually deployed.
 
 ## Background
 
-Computer engineer who started in embedded systems and now builds backend and applied AI systems. Previously a Software Engineer Intern at Toyota North America.
+Software engineer who started in embedded systems and now builds backend and applied AI systems. Previously a Software Engineer Intern at Toyota North America.
 
 📫 [LinkedIn](https://www.linkedin.com/in/akshaj-srirambhatla/)
