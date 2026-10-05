@@ -3,6 +3,7 @@
 **Software Engineer · Backend Systems × Applied AI**
 
 B.S. Computer Engineering @ Cal Poly SLO · Software Engineer, AI agents @ Western Digital
+
 I build AI systems that are measured, grounded, and actually deployed.
 
 ---
