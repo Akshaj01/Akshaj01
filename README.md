@@ -6,6 +6,8 @@ B.S. Computer Engineering @ Cal Poly SLO · Software Engineer, AI agents @ Weste
 
 I build AI systems that are measured, grounded, and actually deployed.
 
+**Portfolio:** [akshaj01.github.io](https://akshaj01.github.io)
+
 ---
 
 ## Selected work
@@ -29,4 +31,4 @@ I build AI systems that are measured, grounded, and actually deployed.
 
 Software engineer who started in embedded systems and now builds backend and applied AI systems. Previously a Software Engineer Intern at Toyota North America.
 
-📫 [LinkedIn](https://www.linkedin.com/in/akshaj-srirambhatla/)
+📫 [LinkedIn](https://www.linkedin.com/in/akshaj-srirambhatla/) · [Portfolio](https://akshaj01.github.io)
