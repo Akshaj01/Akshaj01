@@ -22,7 +22,9 @@ I build AI systems that are measured, grounded, and actually deployed.
 ## Tech stack
 
 **Languages:** Python · C++ · Java · TypeScript · SQL
+
 **Backend & infra:** FastAPI · Docker · Kubernetes · AWS · MySQL · PostgreSQL
+
 **AI / data:** RAG · knowledge graphs (Neo4j) · pgvector · MCP · LLM evaluation
 
 ---
